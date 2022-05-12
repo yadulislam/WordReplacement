@@ -1,2 +1,2 @@
 # WordReplacement
- nothing too fancy. just a program that take an user input. and changes it's word as the user want.
+Nothing too fancy. Just a program that takes user input and changes its words, as the user wants.
